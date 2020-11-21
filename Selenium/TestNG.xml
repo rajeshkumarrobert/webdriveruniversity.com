@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="webdriveruniversity.com">
+	<listeners>
+		<listener class-name="commonFunctions.Transformer"></listener>
+	</listeners>
+	<test name="Login cases" preserve-order="true">
+		<classes>
+			<class name="com.webdriveruniversity.index.LoginCases"></class>
+		</classes>
+	</test>
+	<test name="Button cases" preserve-order="true">
+		<classes>
+			<class name="com.webdriveruniversity.index.ButtonsClick"></class>
+		</classes>
+	</test>
+	<test name="Contact US" preserve-order="true">
+		<classes>
+			<class name="com.webdriveruniversity.index.ContactUS"></class>
+		</classes>
+	</test>
+</suite> 

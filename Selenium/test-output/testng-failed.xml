@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [webdriveruniversity.com]">
+  <listeners>
+    <listener class-name="commonFunctions.Transformer"/>
+  </listeners>
+  <test name="Button cases(failed)">
+    <classes>
+      <class name="com.webdriveruniversity.index.ButtonsClick">
+        <methods>
+          <include name="buttonOperations"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.webdriveruniversity.index.ButtonsClick -->
+    </classes>
+  </test> <!-- Button cases(failed) -->
+</suite> <!-- Failed suite [webdriveruniversity.com] -->

@@ -1,0 +1,328 @@
+2020-11-15 14:21:10 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-15 14:21:10 INFO  CommonFunctions:32 - Property File loaded
+2020-11-15 14:21:10 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-15 14:21:20 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-15 14:21:23 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-15 14:21:23 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-15 14:21:23 INFO  LoginCases:66 - Executing different type of data
+2020-11-15 14:21:26 INFO  LoginCases:66 - Executing different type of data
+2020-11-15 14:21:27 INFO  LoginCases:66 - Executing different type of data
+2020-11-15 14:21:27 INFO  LoginCases:66 - Executing different type of data
+2020-11-15 14:21:27 INFO  LoginCases:77 - Execution of Logincase is Done
+2020-11-15 14:21:28 INFO  ButtonsClick:19 - Button operation test case Execution started
+2020-11-15 14:21:28 INFO  ButtonsClick:22 - Switching to New tab for button operations
+2020-11-15 14:22:51 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-15 14:22:51 INFO  CommonFunctions:32 - Property File loaded
+2020-11-15 14:22:51 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-15 14:22:59 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-15 14:23:01 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-15 14:23:01 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-15 14:23:01 INFO  LoginCases:64 - Executing different type of data
+2020-11-15 14:23:04 INFO  LoginCases:64 - Executing different type of data
+2020-11-15 14:23:04 INFO  LoginCases:64 - Executing different type of data
+2020-11-15 14:23:05 INFO  LoginCases:64 - Executing different type of data
+2020-11-15 14:23:05 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-15 14:23:05 INFO  ButtonsClick:19 - Button operation test case Execution started
+2020-11-15 14:23:06 INFO  ButtonsClick:22 - Switching to New tab for button operations
+2020-11-16 20:40:47 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-16 20:40:47 INFO  CommonFunctions:32 - Property File loaded
+2020-11-16 20:40:47 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-16 20:40:56 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-16 20:40:58 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-16 20:40:58 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-16 20:40:58 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 20:41:01 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 20:41:02 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 20:41:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 20:41:03 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-16 20:41:04 INFO  ButtonsClick:20 - Button operation test case Execution started
+2020-11-16 20:41:05 INFO  ButtonsClick:23 - Switching to New tab for button operations
+2020-11-16 21:10:09 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-16 21:10:09 INFO  CommonFunctions:32 - Property File loaded
+2020-11-16 21:10:09 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-16 21:10:18 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-16 21:10:21 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-16 21:10:22 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-16 21:10:22 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:10:25 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:10:26 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:10:26 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:10:26 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-16 21:10:27 INFO  ButtonsClick:22 - Button operation test case Execution started
+2020-11-16 21:10:27 INFO  ButtonsClick:25 - Switching to New tab for button operations
+2020-11-16 21:19:12 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-16 21:19:12 INFO  CommonFunctions:32 - Property File loaded
+2020-11-16 21:19:12 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-16 21:19:20 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-16 21:19:23 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-16 21:19:23 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-16 21:19:24 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:19:26 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:19:27 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:19:28 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:19:28 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-16 21:19:28 INFO  ButtonsClick:22 - Button operation test case Execution started
+2020-11-16 21:19:29 INFO  ButtonsClick:25 - Switching to New tab for button operations
+2020-11-16 21:28:48 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-16 21:28:48 INFO  CommonFunctions:32 - Property File loaded
+2020-11-16 21:28:48 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-16 21:28:56 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-16 21:28:59 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-16 21:28:59 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-16 21:29:00 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:29:02 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:29:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:29:04 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:29:04 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-16 21:29:04 INFO  ButtonsClick:23 - Button operation test case Execution started
+2020-11-16 21:29:04 INFO  ButtonsClick:26 - Switching to New tab for button operations
+2020-11-16 21:45:02 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-16 21:45:02 INFO  CommonFunctions:32 - Property File loaded
+2020-11-16 21:45:02 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-16 21:45:10 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-16 21:45:13 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-16 21:45:13 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-16 21:45:14 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:45:16 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:45:17 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:45:17 INFO  LoginCases:64 - Executing different type of data
+2020-11-16 21:45:18 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-16 21:45:18 INFO  ButtonsClick:25 - Button operation test case Execution started
+2020-11-16 21:45:18 INFO  ButtonsClick:28 - Switching to New tab for button operations
+2020-11-18 19:56:40 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 19:56:40 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 19:56:40 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 19:56:48 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 19:56:51 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 19:56:51 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 19:56:52 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 19:56:54 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 19:56:55 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 19:56:56 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 19:56:56 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 19:56:56 INFO  ButtonsClick:25 - Button operation test case Execution started
+2020-11-18 19:56:57 INFO  ButtonsClick:28 - Switching to New tab for button operations
+2020-11-18 20:14:20 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:14:20 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:14:20 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:14:28 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:14:30 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:14:31 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:14:31 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:14:33 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:14:34 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:14:35 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:14:35 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:14:35 INFO  ButtonsClick:25 - Button operation test case Execution started
+2020-11-18 20:14:36 INFO  ButtonsClick:28 - Switching to New tab for button operations
+2020-11-18 20:16:50 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:16:50 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:16:50 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:16:58 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:17:00 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:17:00 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:17:01 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:17:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:17:04 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:17:04 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:17:05 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:17:05 INFO  ButtonsClick:25 - Button operation test case Execution started
+2020-11-18 20:17:05 INFO  ButtonsClick:28 - Switching to New tab for button operations
+2020-11-18 20:18:20 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:18:20 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:18:20 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:18:28 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:18:43 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:18:43 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:18:44 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:18:48 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:18:49 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:18:49 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:18:49 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:18:49 INFO  ButtonsClick:25 - Button operation test case Execution started
+2020-11-18 20:18:50 INFO  ButtonsClick:28 - Switching to New tab for button operations
+2020-11-18 20:21:30 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:21:30 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:21:30 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:21:39 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:21:42 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:21:42 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:21:42 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:21:45 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:21:46 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:21:46 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:21:46 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:21:47 INFO  ButtonsClick:26 - Button operation test case Execution started
+2020-11-18 20:21:47 INFO  ButtonsClick:29 - Switching to New tab for button operations
+2020-11-18 20:26:23 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:26:23 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:26:23 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:26:32 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:26:53 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:26:53 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:26:54 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:26:56 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:26:57 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:26:57 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:26:58 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:26:58 INFO  ButtonsClick:26 - Button operation test case Execution started
+2020-11-18 20:26:58 INFO  ButtonsClick:29 - Switching to New tab for button operations
+2020-11-18 20:28:18 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 20:28:18 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 20:28:18 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 20:28:26 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 20:28:46 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 20:28:47 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 20:28:47 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:28:49 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:28:50 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:28:51 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 20:28:51 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 20:28:51 INFO  ButtonsClick:26 - Button operation test case Execution started
+2020-11-18 20:28:51 INFO  ButtonsClick:29 - Switching to New tab for button operations
+2020-11-18 21:10:38 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 21:10:38 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 21:10:38 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 21:10:46 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 21:10:48 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 21:10:49 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 21:10:49 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:10:51 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:10:52 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:10:53 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:10:53 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 21:10:53 INFO  ButtonsClick:20 - Button operation test case Execution started
+2020-11-18 21:10:53 INFO  ButtonsClick:23 - Switching to New tab for button operations
+2020-11-18 21:15:54 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 21:15:54 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 21:15:54 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 21:16:03 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 21:16:14 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 21:16:14 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 21:16:15 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:16:17 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:16:18 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:16:18 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:16:19 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 21:16:19 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:16:20 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:16:21 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:16:22 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:16:23 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:17:24 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 21:17:24 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 21:17:24 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 21:17:33 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 21:17:35 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 21:17:35 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 21:17:35 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:17:38 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:17:39 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:17:39 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:17:40 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 21:17:40 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:17:40 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-18 21:20:49 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-18 21:20:49 INFO  CommonFunctions:32 - Property File loaded
+2020-11-18 21:20:49 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-18 21:20:58 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-18 21:20:59 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-18 21:20:59 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-18 21:21:00 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:21:02 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:21:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:21:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-18 21:21:03 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-18 21:21:04 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-18 21:21:04 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:24:29 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:24:29 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:24:29 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:24:40 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:24:41 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:24:42 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:24:42 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:24:46 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:24:47 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:24:47 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:24:48 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:24:48 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:24:48 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:26:14 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:26:14 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:26:14 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:26:22 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:26:25 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:26:25 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:26:25 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:26:27 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:26:28 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:26:29 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:26:29 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:26:29 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:26:29 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:29:37 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:29:37 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:29:37 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:29:45 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:29:47 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:29:47 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:29:47 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:29:50 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:29:51 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:29:51 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:29:51 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:29:52 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:29:52 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:33:53 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:33:53 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:33:53 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:34:01 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:34:03 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:34:03 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:34:03 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:34:06 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:34:07 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:34:07 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:34:07 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:34:08 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:34:08 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:41:21 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:41:21 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:41:21 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:41:29 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:41:32 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:41:32 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:41:32 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:41:35 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:41:36 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:41:36 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:41:37 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:41:37 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:41:37 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:42:39 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:42:39 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:42:39 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:42:48 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:42:51 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:42:51 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:42:52 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:42:54 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:42:55 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:42:56 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:42:57 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:42:57 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:42:57 INFO  ButtonsClick:24 - Switching to New tab for button operations
+2020-11-19 21:43:54 INFO  CommonFunctions:31 - Execution of webdriveruniversity application
+2020-11-19 21:43:54 INFO  CommonFunctions:32 - Property File loaded
+2020-11-19 21:43:54 INFO  CommonFunctions:39 - Chrome Browser Launched
+2020-11-19 21:44:03 INFO  CommonFunctions:48 - Navigating to the URL
+2020-11-19 21:44:05 INFO  LoginCases:55 - Clicking Login Button in index page
+2020-11-19 21:44:05 INFO  LoginCases:58 - Switching to New Login Tab
+2020-11-19 21:44:06 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:44:08 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:44:09 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:44:09 INFO  LoginCases:64 - Executing different type of data
+2020-11-19 21:44:10 INFO  LoginCases:76 - Execution of Logincase is Done
+2020-11-19 21:44:10 INFO  ButtonsClick:21 - Button operation test case Execution started
+2020-11-19 21:44:10 INFO  ButtonsClick:24 - Switching to New tab for button operations
