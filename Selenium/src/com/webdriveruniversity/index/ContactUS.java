@@ -43,8 +43,12 @@ public class ContactUS extends CommonFunctions{
 		if (url.equals("http://webdriveruniversity.com/Contact-Us/contact-form-thank-you.html")){
 			System.out.println("Success");
 			Assert.assertEquals("Thank You for your Message!", driver.findElement(By.xpath("//div[@id='contact_reply']")).getText());
+			driver.close();
+			driver.switchTo().window(parentWindow);
 		}else{
 			System.out.println("failed");
+			driver.close();
+			driver.switchTo().window(parentWindow);
 		}
 	}
 

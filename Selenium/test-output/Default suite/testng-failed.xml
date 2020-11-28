@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.webdriveruniversity.index.ButtonsClick">
+      <class name="com.webdriveruniversity.index.ToDoList">
         <methods>
-          <include name="buttonOperations"/>
-          <include name="launchURLonFirefox"/>
-          <include name="launchURLonChrome"/>
+          <include name="addToDoList"/>
+          <include name="launchBrowser"/>
         </methods>
-      </class> <!-- com.webdriveruniversity.index.ButtonsClick -->
+      </class> <!-- com.webdriveruniversity.index.ToDoList -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

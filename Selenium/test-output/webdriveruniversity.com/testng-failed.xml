@@ -4,14 +4,14 @@
   <listeners>
     <listener class-name="commonFunctions.Transformer"/>
   </listeners>
-  <test name="Button cases(failed)">
+  <test name="To Do List(failed)">
     <classes>
-      <class name="com.webdriveruniversity.index.ButtonsClick">
+      <class name="com.webdriveruniversity.index.ToDoList">
         <methods>
-          <include name="buttonOperations"/>
+          <include name="addToDoList"/>
           <include name="launchBrowser"/>
         </methods>
-      </class> <!-- com.webdriveruniversity.index.ButtonsClick -->
+      </class> <!-- com.webdriveruniversity.index.ToDoList -->
     </classes>
-  </test> <!-- Button cases(failed) -->
+  </test> <!-- To Do List(failed) -->
 </suite> <!-- Failed suite [webdriveruniversity.com] -->

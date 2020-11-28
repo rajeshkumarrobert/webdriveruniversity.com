@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-webdriveruniversity.com">
-              <span class="suite-name border-passed">webdriveruniversity.com</span>
+              <span class="suite-name border-skipped">webdriveruniversity.com</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,12 +49,12 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-webdriveruniversity.com">
-                    <span>E:\Selenium\TestNG.xml</span>
+                    <span>C:\Users\Indium Software\git\webdriveruniversity.com\Selenium\TestNG.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-webdriveruniversity.com">
-                    <span class="test-stats">3 tests</span>
+                    <span class="test-stats">4 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">10 methods,   10 passed</span>
+                    <span class="method-stats">14 methods,  1 skipped,  13 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-webdriveruniversity.com" class="hide-methods skipped suite-webdriveruniversity.com"> (hide)</a> <!-- hide-methods skipped suite-webdriveruniversity.com -->
+                      <a href="#" panel-name="suite-webdriveruniversity.com" class="show-methods skipped suite-webdriveruniversity.com"> (show)</a> <!-- show-methods skipped suite-webdriveruniversity.com -->
+                    </span>
+                    <div class="method-list-content skipped suite-webdriveruniversity.com">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.ToDoList" hash-for-method="addToDoList">addToDoList</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-webdriveruniversity.com -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -107,7 +121,7 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.LoginCases" hash-for-method="CorrectUsername(asdf, zxcv)">CorrectUsername(asdf, zxcv)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.ToDoList" hash-for-method="ClickToDoList">ClickToDoList</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -117,12 +131,27 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.LoginCases" hash-for-method="CorrectUsername(Admin, admin123)">CorrectUsername(Admin, admin123)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.LoginCases" hash-for-method="CorrectUsername(asdf, zxcv)">CorrectUsername(asdf, zxcv)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.LoginCases" hash-for-method="CorrectUsername(asdf, admin123)">CorrectUsername(asdf, admin123)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.LoginCases" hash-for-method="CorrectUsername(Admin, admin123)">CorrectUsername(Admin, admin123)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.ToDoList" hash-for-method="ToDoListOperations">ToDoListOperations</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-webdriveruniversity.com" title="com.webdriveruniversity.index.ToDoList" hash-for-method="addToDoList">addToDoList</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -162,6 +191,44 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-webdriveruniversity.com" class="panel webdriveruniversity.com">
+          <div class="suite-webdriveruniversity.com-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.webdriveruniversity.index.ToDoList</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addToDoList">
+                  </a> <!-- addToDoList -->
+                  <span class="method-name">addToDoList</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&apos;container&apos;]/ul/li[5]/span/i&quot;}
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;ISILBLRLT10151&apos;, ip: &apos;192.168.43.68&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_261&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\INDIUM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6d8f73d3edc3038ece7fafa7b147a21f
+*** Element info: {Using=xpath, value=//*[@id=&apos;container&apos;]/ul/li[5]/span/i}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at com.webdriveruniversity.index.ToDoList.deleteList(ToDoList.java:44)
+	at com.webdriveruniversity.index.ToDoList.addToDoList(ToDoList.java:64)
+... Removed 29 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-webdriveruniversity.com-class-skipped -->
           <div class="suite-webdriveruniversity.com-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -177,14 +244,6 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="CorrectUsername(asdf, zxcv)">
-                  </a> <!-- CorrectUsername(asdf, zxcv) -->
-                  <span class="method-name">CorrectUsername</span>
-                  <span class="parameters">(asdf, zxcv)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="CorrectUsername(Admin, Adminqwe)">
                   </a> <!-- CorrectUsername(Admin, Adminqwe) -->
                   <span class="method-name">CorrectUsername</span>
@@ -193,10 +252,10 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="CorrectUsername(Admin, admin123)">
-                  </a> <!-- CorrectUsername(Admin, admin123) -->
+                  <a name="CorrectUsername(asdf, zxcv)">
+                  </a> <!-- CorrectUsername(asdf, zxcv) -->
                   <span class="method-name">CorrectUsername</span>
-                  <span class="parameters">(Admin, admin123)</span>
+                  <span class="parameters">(asdf, zxcv)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -209,9 +268,46 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
+                  <a name="CorrectUsername(Admin, admin123)">
+                  </a> <!-- CorrectUsername(Admin, admin123) -->
+                  <span class="method-name">CorrectUsername</span>
+                  <span class="parameters">(Admin, admin123)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="switchTab">
                   </a> <!-- switchTab -->
                   <span class="method-name">switchTab</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-webdriveruniversity.com-class-passed -->
+          <div class="suite-webdriveruniversity.com-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.webdriveruniversity.index.ToDoList</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickToDoList">
+                  </a> <!-- ClickToDoList -->
+                  <span class="method-name">ClickToDoList</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ToDoListOperations">
+                  </a> <!-- ToDoListOperations -->
+                  <span class="method-name">ToDoListOperations</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="addToDoList">
+                  </a> <!-- addToDoList -->
+                  <span class="method-name">addToDoList</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -263,7 +359,7 @@
         </div> <!-- panel webdriveruniversity.com -->
         <div panel-name="test-xml-webdriveruniversity.com" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">E:\Selenium\TestNG.xml</span>
+            <span class="header-content">C:\Users\Indium Software\git\webdriveruniversity.com\Selenium\TestNG.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -288,6 +384,11 @@
       &lt;class name=&quot;com.webdriveruniversity.index.ContactUS&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Contact US --&gt;
+  &lt;test name=&quot;To Do List&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.webdriveruniversity.index.ToDoList&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- To Do List --&gt;
 &lt;/suite&gt; &lt;!-- webdriveruniversity.com --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -306,6 +407,9 @@
               </li>
               <li>
                 <span class="test-name">Contact US (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">To Do List (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -331,52 +435,68 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(10);
+data.addRows(14);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'buttonOperations')
-data.setCell(0, 2, 'com.webdriveruniversity.index.ButtonsClick')
-data.setCell(0, 3, 4965);
+data.setCell(0, 1, 'contactUsValues')
+data.setCell(0, 2, 'com.webdriveruniversity.index.ContactUS')
+data.setCell(0, 3, 6421);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'contactUsValues')
-data.setCell(1, 2, 'com.webdriveruniversity.index.ContactUS')
-data.setCell(1, 3, 3510);
+data.setCell(1, 1, 'addToDoList')
+data.setCell(1, 2, 'com.webdriveruniversity.index.ToDoList')
+data.setCell(1, 3, 5619);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'CorrectUsername')
-data.setCell(2, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(2, 3, 2472);
+data.setCell(2, 1, 'buttonOperations')
+data.setCell(2, 2, 'com.webdriveruniversity.index.ButtonsClick')
+data.setCell(2, 3, 5581);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'CorrectUsername')
 data.setCell(3, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(3, 3, 876);
+data.setCell(3, 3, 2507);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'CorrectUsername')
-data.setCell(4, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(4, 3, 544);
+data.setCell(4, 1, 'ToDoListOperations')
+data.setCell(4, 2, 'com.webdriveruniversity.index.ToDoList')
+data.setCell(4, 3, 2287);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'CorrectUsername')
 data.setCell(5, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(5, 3, 373);
+data.setCell(5, 3, 1125);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'clickButton')
-data.setCell(6, 2, 'com.webdriveruniversity.index.ButtonsClick')
-data.setCell(6, 3, 199);
+data.setCell(6, 1, 'CorrectUsername')
+data.setCell(6, 2, 'com.webdriveruniversity.index.LoginCases')
+data.setCell(6, 3, 964);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'ClickLoginButton')
-data.setCell(7, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(7, 3, 184);
+data.setCell(7, 1, 'addToDoList')
+data.setCell(7, 2, 'com.webdriveruniversity.index.ToDoList')
+data.setCell(7, 3, 511);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'clickContactUS')
-data.setCell(8, 2, 'com.webdriveruniversity.index.ContactUS')
-data.setCell(8, 3, 176);
+data.setCell(8, 1, 'ClickLoginButton')
+data.setCell(8, 2, 'com.webdriveruniversity.index.LoginCases')
+data.setCell(8, 3, 426);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'switchTab')
+data.setCell(9, 1, 'CorrectUsername')
 data.setCell(9, 2, 'com.webdriveruniversity.index.LoginCases')
-data.setCell(9, 3, 89);
+data.setCell(9, 3, 397);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'clickContactUS')
+data.setCell(10, 2, 'com.webdriveruniversity.index.ContactUS')
+data.setCell(10, 3, 229);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'clickButton')
+data.setCell(11, 2, 'com.webdriveruniversity.index.ButtonsClick')
+data.setCell(11, 3, 201);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'ClickToDoList')
+data.setCell(12, 2, 'com.webdriveruniversity.index.ToDoList')
+data.setCell(12, 3, 149);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'switchTab')
+data.setCell(13, 2, 'com.webdriveruniversity.index.LoginCases')
+data.setCell(13, 3, 148);
 window.suiteTableData['webdriveruniversity.com']= { tableData: data, tableDiv: 'times-div-webdriveruniversity.com'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 13 seconds</span>
+              <span class="suite-total-time">Total running time: 26 seconds</span>
               <div id="times-div-webdriveruniversity.com">
               </div> <!-- times-div-webdriveruniversity.com -->
             </div> <!-- times-div -->
@@ -402,7 +522,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.webdriveruniversity.index.ContactUS</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.webdriveruniversity.index.ToDoList</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">launchBrowser</span>
                 <span class="method-start">0 ms</span>
@@ -412,49 +532,68 @@ return data;
               <div class="chronological-class-name">com.webdriveruniversity.index.LoginCases</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">ClickLoginButton</span>
-                <span class="method-start">10948 ms</span>
+                <span class="method-start">15327 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">CorrectUsername(Admin, admin123)</span>
-                <span class="method-start">11371 ms</span>
+                <span class="method-start">16064 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">CorrectUsername(Admin, Adminqwe)</span>
-                <span class="method-start">13846 ms</span>
+                <span class="method-start">18573 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">CorrectUsername(asdf, admin123)</span>
-                <span class="method-start">14725 ms</span>
+                <span class="method-start">19542 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">CorrectUsername(asdf, zxcv)</span>
-                <span class="method-start">15271 ms</span>
+                <span class="method-start">20671 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">switchTab</span>
-                <span class="method-start">15647 ms</span>
+                <span class="method-start">21070 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.webdriveruniversity.index.ButtonsClick</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">clickButton</span>
-                <span class="method-start">15824 ms</span>
+                <span class="method-start">21367 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">buttonOperations</span>
-                <span class="method-start">16025 ms</span>
+                <span class="method-start">21571 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.webdriveruniversity.index.ContactUS</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">clickContactUS</span>
-                <span class="method-start">21032 ms</span>
+                <span class="method-start">27254 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">contactUsValues</span>
-                <span class="method-start">21210 ms</span>
+                <span class="method-start">27484 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.webdriveruniversity.index.ToDoList</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">ClickToDoList</span>
+                <span class="method-start">33960 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">ToDoListOperations</span>
+                <span class="method-start">34111 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">addToDoList</span>
+                <span class="method-start">36399 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">addToDoList</span>
+                <span class="method-start">42022 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

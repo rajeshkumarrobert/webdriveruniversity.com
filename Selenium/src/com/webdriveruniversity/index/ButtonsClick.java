@@ -31,15 +31,15 @@ public class ButtonsClick extends CommonFunctions{
 		PageFactory.initElements(driver,ButtonObjects.class);
 		ButtonObjects.firstButton.click();
 	
-		new WebDriverWait(driver, 20).until(ExpectedConditions.elementToBeClickable(By.xpath
+		new WebDriverWait(driver, 30).until(ExpectedConditions.elementToBeClickable(By.xpath
 				("//h4[contains(text(),'Congratulations')]/preceding-sibling::button"))).click();
 		
 		ButtonObjects.secondButton.click();
-		new WebDriverWait(driver, 20).until(ExpectedConditions.elementToBeClickable(By.xpath
+		new WebDriverWait(driver, 30).until(ExpectedConditions.elementToBeClickable(By.xpath
 				("//h4[contains(text(),'It')]/preceding-sibling::button"))).click();
 		
 		ButtonObjects.thirdButton.click();
-		new WebDriverWait(driver, 20).until(ExpectedConditions.elementToBeClickable(By.xpath
+		new WebDriverWait(driver, 30).until(ExpectedConditions.elementToBeClickable(By.xpath
 				("//h4[contains(text(),'Well done')]/preceding-sibling::button"))).click();
 		driver.close();
 		driver.switchTo().window(OldWindow);
