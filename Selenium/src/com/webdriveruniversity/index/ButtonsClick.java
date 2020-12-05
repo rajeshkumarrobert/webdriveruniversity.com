@@ -2,6 +2,8 @@ package com.webdriveruniversity.index;
 
 
 import java.util.ArrayList;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
@@ -27,7 +29,7 @@ public class ButtonsClick extends CommonFunctions{
 	}
 	
 	@Test(priority=1)
-	public void buttonOperations(){
+	public void buttonOperations() throws InterruptedException{
 		PageFactory.initElements(driver,ButtonObjects.class);
 		ButtonObjects.firstButton.click();
 	

@@ -6,10 +6,14 @@
   </listeners>
   <test name="To Do List(failed)">
     <classes>
+      <class name="com.webdriveruniversity.index.POM">
+        <methods>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.webdriveruniversity.index.POM -->
       <class name="com.webdriveruniversity.index.ToDoList">
         <methods>
           <include name="addToDoList"/>
-          <include name="launchBrowser"/>
         </methods>
       </class> <!-- com.webdriveruniversity.index.ToDoList -->
     </classes>

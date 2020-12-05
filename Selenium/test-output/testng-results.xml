@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" total="14" passed="13">
+<testng-results skipped="1" failed="0" total="17" passed="16">
   <reporter-output>
   </reporter-output>
-  <suite name="webdriveruniversity.com" duration-ms="27233" started-at="2020-11-28T07:37:37Z" finished-at="2020-11-28T07:38:04Z">
+  <suite name="webdriveruniversity.com" duration-ms="41460" started-at="2020-12-05T07:12:37Z" finished-at="2020-12-05T07:13:18Z">
     <groups>
     </groups>
-    <test name="Login cases" duration-ms="5919" started-at="2020-11-28T07:37:37Z" finished-at="2020-11-28T07:37:43Z">
+    <test name="Login cases" duration-ms="4797" started-at="2020-12-05T07:12:37Z" finished-at="2020-12-05T07:12:41Z">
       <class name="com.webdriveruniversity.index.LoginCases">
-        <test-method status="PASS" signature="ClickLoginButton()[pri:0, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="ClickLoginButton" duration-ms="426" started-at="2020-11-28T13:07:37Z" finished-at="2020-11-28T13:07:38Z">
+        <test-method status="PASS" signature="ClickLoginButton()[pri:0, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="ClickLoginButton" duration-ms="227" started-at="2020-12-05T12:42:37Z" finished-at="2020-12-05T12:42:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickLoginButton -->
-        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="2507" started-at="2020-11-28T13:07:38Z" data-provider="loginData" finished-at="2020-11-28T13:07:41Z">
+        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="2420" started-at="2020-12-05T12:42:37Z" data-provider="loginData" finished-at="2020-12-05T12:42:39Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CorrectUsername -->
-        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="964" started-at="2020-11-28T13:07:41Z" data-provider="loginData" finished-at="2020-11-28T13:07:42Z">
+        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="747" started-at="2020-12-05T12:42:39Z" data-provider="loginData" finished-at="2020-12-05T12:42:40Z">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CorrectUsername -->
-        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="1125" started-at="2020-11-28T13:07:42Z" data-provider="loginData" finished-at="2020-11-28T13:07:43Z">
+        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="488" started-at="2020-12-05T12:42:40Z" data-provider="loginData" finished-at="2020-12-05T12:42:41Z">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CorrectUsername -->
-        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="397" started-at="2020-11-28T13:07:43Z" data-provider="loginData" finished-at="2020-11-28T13:07:43Z">
+        <test-method status="PASS" signature="CorrectUsername(java.lang.String, java.lang.String)[pri:1, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="CorrectUsername" duration-ms="469" started-at="2020-12-05T12:42:41Z" data-provider="loginData" finished-at="2020-12-05T12:42:41Z">
           <params>
             <param index="0">
               <value>
@@ -75,51 +75,47 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CorrectUsername -->
-        <test-method status="PASS" signature="switchTab()[pri:2, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="switchTab" duration-ms="148" started-at="2020-11-28T13:07:43Z" finished-at="2020-11-28T13:07:43Z">
+        <test-method status="PASS" signature="switchTab()[pri:2, instance:com.webdriveruniversity.index.LoginCases@61832929]" name="switchTab" duration-ms="169" started-at="2020-12-05T12:42:41Z" finished-at="2020-12-05T12:42:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- switchTab -->
       </class> <!-- com.webdriveruniversity.index.LoginCases -->
     </test> <!-- Login cases -->
-    <test name="Button cases" duration-ms="5789" started-at="2020-11-28T07:37:43Z" finished-at="2020-11-28T07:37:49Z">
+    <test name="Button cases" duration-ms="5088" started-at="2020-12-05T07:12:41Z" finished-at="2020-12-05T07:12:47Z">
       <class name="com.webdriveruniversity.index.ButtonsClick">
-        <test-method status="PASS" signature="clickButton()[pri:0, instance:com.webdriveruniversity.index.ButtonsClick@4883b407]" name="clickButton" duration-ms="201" started-at="2020-11-28T13:07:43Z" finished-at="2020-11-28T13:07:44Z">
+        <test-method status="PASS" signature="clickButton()[pri:0, instance:com.webdriveruniversity.index.ButtonsClick@4883b407]" name="clickButton" duration-ms="173" started-at="2020-12-05T12:42:41Z" finished-at="2020-12-05T12:42:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickButton -->
-        <test-method status="PASS" signature="buttonOperations()[pri:1, instance:com.webdriveruniversity.index.ButtonsClick@4883b407]" name="buttonOperations" duration-ms="5581" started-at="2020-11-28T13:07:44Z" finished-at="2020-11-28T13:07:49Z">
+        <test-method status="PASS" signature="buttonOperations()[pri:1, instance:com.webdriveruniversity.index.ButtonsClick@4883b407]" name="buttonOperations" duration-ms="4911" started-at="2020-12-05T12:42:42Z" finished-at="2020-12-05T12:42:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonOperations -->
       </class> <!-- com.webdriveruniversity.index.ButtonsClick -->
     </test> <!-- Button cases -->
-    <test name="Contact US" duration-ms="6656" started-at="2020-11-28T07:37:49Z" finished-at="2020-11-28T07:37:56Z">
+    <test name="Contact US" duration-ms="5019" started-at="2020-12-05T07:12:47Z" finished-at="2020-12-05T07:12:52Z">
       <class name="com.webdriveruniversity.index.ContactUS">
-        <test-method status="PASS" signature="clickContactUS()[pri:0, instance:com.webdriveruniversity.index.ContactUS@5442a311]" name="clickContactUS" duration-ms="229" started-at="2020-11-28T13:07:49Z" finished-at="2020-11-28T13:07:49Z">
+        <test-method status="PASS" signature="clickContactUS()[pri:0, instance:com.webdriveruniversity.index.ContactUS@5442a311]" name="clickContactUS" duration-ms="164" started-at="2020-12-05T12:42:47Z" finished-at="2020-12-05T12:42:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickContactUS -->
-        <test-method status="PASS" signature="contactUsValues()[pri:1, instance:com.webdriveruniversity.index.ContactUS@5442a311]" name="contactUsValues" duration-ms="6421" started-at="2020-11-28T13:07:49Z" finished-at="2020-11-28T13:07:56Z">
+        <test-method status="PASS" signature="contactUsValues()[pri:1, instance:com.webdriveruniversity.index.ContactUS@5442a311]" name="contactUsValues" duration-ms="4847" started-at="2020-12-05T12:42:47Z" finished-at="2020-12-05T12:42:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactUsValues -->
       </class> <!-- com.webdriveruniversity.index.ContactUS -->
     </test> <!-- Contact US -->
-    <test name="To Do List" duration-ms="8576" started-at="2020-11-28T07:37:56Z" finished-at="2020-11-28T07:38:04Z">
+    <test name="To Do List" duration-ms="8621" started-at="2020-12-05T07:12:52Z" finished-at="2020-12-05T07:13:00Z">
       <class name="com.webdriveruniversity.index.ToDoList">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="launchBrowser" is-config="true" duration-ms="15301" started-at="2020-11-28T13:07:22Z" finished-at="2020-11-28T13:07:37Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="ClickToDoList()[pri:0, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="ClickToDoList" duration-ms="149" started-at="2020-11-28T13:07:56Z" finished-at="2020-11-28T13:07:56Z">
+        <test-method status="PASS" signature="ClickToDoList()[pri:0, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="ClickToDoList" duration-ms="167" started-at="2020-12-05T12:42:52Z" finished-at="2020-12-05T12:42:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickToDoList -->
-        <test-method status="PASS" signature="ToDoListOperations()[pri:1, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="ToDoListOperations" duration-ms="2287" started-at="2020-11-28T13:07:56Z" finished-at="2020-11-28T13:07:58Z">
+        <test-method status="PASS" signature="ToDoListOperations()[pri:1, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="ToDoListOperations" duration-ms="2268" started-at="2020-12-05T12:42:52Z" finished-at="2020-12-05T12:42:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ToDoListOperations -->
-        <test-method status="SKIP" signature="addToDoList()[pri:2, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="addToDoList" duration-ms="5619" started-at="2020-11-28T13:07:58Z" finished-at="2020-11-28T13:08:04Z">
+        <test-method status="SKIP" signature="addToDoList()[pri:2, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="addToDoList" duration-ms="5567" started-at="2020-12-05T12:42:54Z" finished-at="2020-12-05T12:43:00Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='container']/ul/li[5]/span/i"}
@@ -128,8 +124,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'ISILBLRLT10151', ip: '192.168.43.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\INDIUM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 6d8f73d3edc3038ece7fafa7b147a21f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\INDIUM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 03830e4577ec13a43438499d18a71385
 *** Element info: {Using=xpath, value=//*[@id='container']/ul/li[5]/span/i}]]>
             </message>
             <full-stacktrace>
@@ -139,8 +135,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'ISILBLRLT10151', ip: '192.168.43.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\INDIUM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 6d8f73d3edc3038ece7fafa7b147a21f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\INDIUM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 03830e4577ec13a43438499d18a71385
 *** Element info: {Using=xpath, value=//*[@id='container']/ul/li[5]/span/i}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -189,11 +185,31 @@ Session ID: 6d8f73d3edc3038ece7fafa7b147a21f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToDoList -->
-        <test-method status="PASS" signature="addToDoList()[pri:2, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="addToDoList" duration-ms="511" started-at="2020-11-28T13:08:04Z" finished-at="2020-11-28T13:08:04Z">
+        <test-method status="PASS" signature="addToDoList()[pri:2, instance:com.webdriveruniversity.index.ToDoList@4dfa3a9d]" name="addToDoList" duration-ms="602" started-at="2020-12-05T12:43:00Z" finished-at="2020-12-05T12:43:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToDoList -->
       </class> <!-- com.webdriveruniversity.index.ToDoList -->
     </test> <!-- To Do List -->
+    <test name="POM Operations" duration-ms="17654" started-at="2020-12-05T07:13:00Z" finished-at="2020-12-05T07:13:18Z">
+      <class name="com.webdriveruniversity.index.POM">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.webdriveruniversity.index.POM@31ef45e3]" name="launchBrowser" is-config="true" duration-ms="11230" started-at="2020-12-05T12:42:25Z" finished-at="2020-12-05T12:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="POMactions()[pri:0, instance:com.webdriveruniversity.index.POM@31ef45e3]" name="POMactions" duration-ms="172" started-at="2020-12-05T12:43:00Z" finished-at="2020-12-05T12:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMactions -->
+        <test-method status="PASS" signature="FindOut()[pri:1, instance:com.webdriveruniversity.index.POM@31ef45e3]" name="FindOut" duration-ms="2299" started-at="2020-12-05T12:43:01Z" finished-at="2020-12-05T12:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindOut -->
+        <test-method status="PASS" signature="OurProducts()[pri:2, instance:com.webdriveruniversity.index.POM@31ef45e3]" name="OurProducts" duration-ms="15174" started-at="2020-12-05T12:43:03Z" finished-at="2020-12-05T12:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OurProducts -->
+      </class> <!-- com.webdriveruniversity.index.POM -->
+    </test> <!-- POM Operations -->
   </suite> <!-- webdriveruniversity.com -->
 </testng-results>
