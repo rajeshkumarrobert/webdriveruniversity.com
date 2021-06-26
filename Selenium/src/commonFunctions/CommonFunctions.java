@@ -24,6 +24,7 @@ public class CommonFunctions {
 		properties = new Properties();
 		properties.load(fileInputStream);
 		return properties;
+		//Added to check jenkins operation
 	}
 	@BeforeSuite
 	public void launchBrowser() throws IOException{
